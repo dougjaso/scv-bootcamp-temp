@@ -9,4 +9,4 @@ Supervisors and agents will have access to real-time transcription via Amazon Tr
 
 To learn more on using Amazon Connect with Service Cloud Voice, visit the [Salesforce Service Cloud Voice website](https://www.salesforce.com/products/service-cloud/solutions/call-center-management/).
 
-**NEXT STEP: [Course Prerequisites](prerequisites.md)
+**NEXT STEP: [Course Prerequisites](prerequisites.md)**
