@@ -1,3 +1,4 @@
+# Service Cloud Voice Bootcamp
 This workshop will introduce you to Service Cloud Voice, which is an omnichannel contact center solution developed by Salesforce, and powered by Amazon Connect. During this workshop you will learn about the different versions of Service Cloud Voice (SCV), deploy SCV from a Salesforce Developer organization, configure, customize and validate the solution to meet common business requirements, and learn best practices for designing your customer experiences. This workshop will be a mixture of lecture, lab, and free development time.
 
 ## Audience
@@ -23,3 +24,5 @@ When taught live, this workshop is run over a three day period, with each day la
 * **Module 9 – Troubleshooting**
 * **Module 10 – Summary  & Clean Up**
 * **Module 11 – Hands-On Workshop**
+
+**NEXT STEP: [Introduction](introduction/index.md)
