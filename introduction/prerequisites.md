@@ -1,9 +1,18 @@
-Service Cloud Voice brings together phone, digital channels, and CRM data into one unified contact center experience. Amazon Connect offers pre-integrated cloud telephony and automatic speech recognition for both agents and supervisors in Service Cloud, the leading customer service platform.
+In order to successfully complete this workshop, attendees must have access to the following resources:
 
-Amazon Connect has natural text-to-speech built-in so you can create personalized messages in real-time with Amazon Lex to automate interactions and improve customer service. Agents now have native, embedded call control with integrated email, chat, and messaging within the Service Cloud Console. This increases agent productivity by handling calls quickly and intelligently, reducing average handle time, data entry, and call wrap-up time. Supervisors can view incoming and current calls next to Salesforce-powered digital conversations in real time for live routing and call assist.
+### All session types
+*  A laptop, PC or Mac, with Google Chrome or Mozilla Firefox installed and configured
+*  A stable network connection with access to the public internet
+*  Preferred: Two monitors or a sizeable enough monitor to comfortable fit two windows. For in-person courses, a tablet that can be used as an external monitor will work fine.
+*  An email address, such as Gmail, that can be used specifically for routing emails with Salesforce. Ideally, this should be a new emaill address that you create just for this course.
+*  A prepared Salesforce Developer environment with Service Cloud Voice enabled. The next section, **Preparing a workshop environment** will guide you through that process.
 
-![SCV Omni Widget](/static/01/hvcc-6-omni-widget.png)
+### Remote sessions
+*  [Amazon Chime](https://aws.amazon.com/chime/download/) installed and configured.
+*  A comfortable, private work location as this is a three day, hands on course with long stretches of instruction
 
-Supervisors and agents will have access to real-time transcription via Amazon Transcribe, call recording playback via Amazon Simple Storage Service (Amazon S3), and CRM integration with call analytics. Service Cloud Voice uses AWS AI/ML Services and Einstein for Service, allowing agents to leverage knowledge articles, next best actions, and recommendations in real time. Now, customers will receive faster, more personalized customer service than ever!
+---
+Additionally, attendees should have some idea as to what Service Cloud Voice and Amazon Connect are. For those with limited exposure, here are two short videos:
+::video{id=uvD97rlK57Q type=youTube}
 
-To learn more on using Amazon Connect with Service Cloud Voice, visit the [Salesforce Service Cloud Voice website](https://www.salesforce.com/products/service-cloud/solutions/call-center-management/).
+::video{id=syF1CEiWAto type=youTube}
