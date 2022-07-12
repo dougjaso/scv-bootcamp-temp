@@ -10,8 +10,8 @@ In order to attend this workshop, you will need to:
     *  Enable Voice
     *  Validate basic telephony routing
 
-::alert[This course is intended to be run in Salesforce Developer orgs specifically. Developer orgs have all additional licenses and permissions required for the modules in this course. We **DO NOT** recommend using a production or sandbox org.]{header="Salesforce Org Type" type="warning"}
+> **_NOTE:_** This course is intended to be run in Salesforce Developer orgs specifically. Developer orgs have all additional licenses and permissions required for the modules in this course. We **DO NOT** recommend using a production or sandbox org.
 
 The following pages will walk you through this process. If you are attending a live or remote session, please complete them prior to the start of that session. 
 
-**NEXT STEP: [Course Preparation](prep_index.md)**
+**NEXT STEP: [Sign-up for a Salesforce Developer account](prep_01.md)**
