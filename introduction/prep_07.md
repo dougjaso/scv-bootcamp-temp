@@ -7,7 +7,7 @@ In Salesforce, you can use OAuth authorization to approve a client application's
 1.  Validate the function
 
 ## Set Up OAuth in your Service Cloud Voice connected app
-::alert[You will need a private key and self-signed digital certificate for this process. Please follow the [steps provided by Salesforce to create these](https://developer.salesforce.com/docs/atlas.en-us.238.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm).]{header="Important" type="warning"}
+> **_Important:_** You will need a private key and self-signed digital certificate for this process. Please follow the [steps provided by Salesforce to create these](https://developer.salesforce.com/docs/atlas.en-us.238.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm).
 
 These instructions describe how to set up OAuth in the Salesforce-created connected app.
 1.  From Setup, enter `Apps` in the **Quick Find** box, and select **App Manager**.
@@ -52,7 +52,7 @@ To test that you have OAuth set up for the InvokeSalesforceRestApiFunction Lambd
 1.  Select the **Test** dropdown menu and choose **Configure test event**.
 1.  Provide an **Event name**.
 1.  Copy the JSON information below and replace the existing event JSON. 
-:::code{showCopyAction=true showLineNumbers=true language=json}
+'''
 {
   "Details": {
     "Parameters": {
@@ -61,15 +61,15 @@ To test that you have OAuth set up for the InvokeSalesforceRestApiFunction Lambd
     }
   }
 }
-:::
+'''
 6.  Select **Save**.
 6.  Select **Test**.
 6.  You should receive a response similar to:
-:::code{language=json}
+'''
 {
   "Id": "0058b00000GDAKMAA5"
 }
-:::
+'''
 7. You have validated Salesforce REST API access from AWS Lambda.
 
 > **_CONGRATULATIONS!!_** You have completed the initial creation and validation of your contact center using Service Cloud Voice with Amazon Connect.
