@@ -4,7 +4,7 @@ In order to successfully complete this workshop, attendees must have access to t
 ### All session types
 *  A laptop, PC or Mac, with Google Chrome or Mozilla Firefox installed and configured
 *  A stable network connection with access to the public internet
-*  Preferred: Two monitors or a sizeable enough monitor to comfortable fit two windows. For in-person courses, a tablet that can be used as an external monitor will work fine.
+*  Preferred: Two monitors or a sizeable enough monitor to comfortably fit two windows For in-person courses, a tablet that can be used as an external monitor will work fine.
 *  An email address, such as Gmail, that can be used specifically for routing emails with Salesforce. Ideally, this should be a new emaill address that you create just for this course.
 *  A prepared Salesforce Developer environment with Service Cloud Voice enabled. The next section, **Preparing a workshop environment** will guide you through that process.
 
