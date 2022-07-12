@@ -20,7 +20,7 @@ After assigning the permission set, create your contact center. Single sign-on (
 ## Create your contact center
 Set up your contact center for Service Cloud Voice with Amazon Connect. When you create a contact center in Voice, Salesforce creates an Amazon Connect instance and two Salesforce connected apps for you. Before starting this task, assign the Contact Center Admin permission set to at least one user and find out where your contact center is physically located.
 
-> **NOTE:_** The Amazon Connect instance can be located in data centers around the world. Select a region that is closest to where you’re located geographically. For information about AWS regions that support Amazon Connect, see [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) in the AWS documentation.
+> **_NOTE:_** The Amazon Connect instance can be located in data centers around the world. Select a region that is closest to where you’re located geographically. For information about AWS regions that support Amazon Connect, see [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) in the AWS documentation.
 
 1.  Login to your Salesforce org as an administrator.
 1.  From Setup, in the Quick Find box, enter `Amazon Setup`, then select **Amazon Setup**.
