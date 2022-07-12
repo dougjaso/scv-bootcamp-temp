@@ -52,7 +52,7 @@ To test that you have OAuth set up for the InvokeSalesforceRestApiFunction Lambd
 1.  Select the **Test** dropdown menu and choose **Configure test event**.
 1.  Provide an **Event name**.
 1.  Copy the JSON information below and replace the existing event JSON. 
-'''
+```
 {
   "Details": {
     "Parameters": {
@@ -61,15 +61,15 @@ To test that you have OAuth set up for the InvokeSalesforceRestApiFunction Lambd
     }
   }
 }
-'''
+```
 6.  Select **Save**.
 6.  Select **Test**.
 6.  You should receive a response similar to:
-'''
+```
 {
   "Id": "0058b00000GDAKMAA5"
 }
-'''
+```
 7. You have validated Salesforce REST API access from AWS Lambda.
 
 > **_CONGRATULATIONS!!_** You have completed the initial creation and validation of your contact center using Service Cloud Voice with Amazon Connect.
