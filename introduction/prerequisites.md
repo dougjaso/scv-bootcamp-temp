@@ -1,3 +1,4 @@
+# Course prerequisites
 In order to successfully complete this workshop, attendees must have access to the following resources:
 
 ### All session types
