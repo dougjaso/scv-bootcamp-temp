@@ -16,6 +16,6 @@ Additionally, attendees should have some idea as to what Service Cloud Voice and
 
 [![Service Cloud Voice](/static/01/scv_video.png)](https://www.youtube.com/watch?v=uvD97rlK57Q)
 
-[![Amazon Connect](/static/01/scv_video.png)](https://www.youtube.com/watch?v=syF1CEiWAto)
+[![Amazon Connect](/static/01/connect_video.png)](https://www.youtube.com/watch?v=syF1CEiWAto)
 
 **NEXT STEP: [Course Preparation](prep_index.md)**
