@@ -2,7 +2,7 @@
 
 Registering as a Salesforce Developer provides you with a full-featured copy of the Salesforce Platform for free. 
 
-> **_NOTE_**: If you already have a Salesforce Developer account created prior to June 1, you will still need to create a new one.
+> **_NOTE_**: If you already have a Salesforce Developer please still create a new one for this course. New developer accounts include Service Cloud Voice licensing that existing accounts may not.
 
 1.  Go the the [Salesforce Developer sign-up page](https://developer.salesforce.com/signup)
 1.  Fill in the form completely, review the [Terms of Use](https://trailblazer.me/terms), [Main Services Agreement](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_Developer_MSA.pdf), and [Privacy Statements](https://www.salesforce.com/company/privacy/).
