@@ -12,8 +12,10 @@ In order to successfully complete this workshop, attendees must have access to t
 *  A comfortable, private work location as this is a three day, hands on course with long stretches of instruction
 
 ---
-Additionally, attendees should have some idea as to what Service Cloud Voice and Amazon Connect are. For those with limited exposure, here are two short videos:
+Additionally, attendees should have some idea as to what Service Cloud Voice and Amazon Connect are. For those with limited exposure, here are two short videos (right/control click and open in a new tab/window):
 
 [![Service Cloud Voice](/static/01/scv_video.png)](https://www.youtube.com/watch?v=uvD97rlK57Q)
 
-::video{id=syF1CEiWAto type=youTube}
+[![Amazon Connect](/static/01/scv_video.png)](https://www.youtube.com/watch?v=syF1CEiWAto)
+
+**NEXT STEP: [Course Preparation](prep_index.md)
