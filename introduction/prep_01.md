@@ -12,7 +12,10 @@ Once you submit your registration, it will take a few minutes for your account t
 
 1.  In the verification email from Salesforce, select the **Verify Account** button.
 1.  A browser will open allowing you to enter and confirm a password and provide a security response.
-1.  Once complete, select **Change Password**. ![Change your password](/static/01/password.png)
+
+![Change your password](/static/01/password.png)
+
+3.  Once complete, select **Change Password**. 
 
 Once you login, you are all set. You now have a Salesforce Developer account and can proceed with setting up your new org. The first step is to enable Omni-Channel.
 
