@@ -8,7 +8,8 @@ Before you can turn on Voice, enable Omni-Channel so your agents can make and re
 1.  From Setup, enter `Omni-Channel Settings` in the Quick Find box, then select **Omni-Channel Settings**.
 1.  Select **Enable Omni-Channel**.
 1.  Select **Omni-Channel settings** to enable features.
-1.  Choose **Save**. ![Enable Omni-Channel](/static/01/enable_omni.png)
+1.  Choose **Save**. 
+![Enable Omni-Channel](/static/01/enable_omni.png)
 
 Once you have enabled Omni-Channel, you need to enable Salesforce as an identity provider.
 
