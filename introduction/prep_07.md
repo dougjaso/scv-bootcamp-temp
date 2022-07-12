@@ -7,7 +7,7 @@ In Salesforce, you can use OAuth authorization to approve a client application's
 1.  Validate the function
 
 ## Set Up OAuth in your Service Cloud Voice connected app
-> **_Important:_** You will need a private key and self-signed digital certificate for this process. Please follow the [steps provided by Salesforce to create these](https://developer.salesforce.com/docs/atlas.en-us.238.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm).
+> **_IMPORTANT:_** You will need a private key and self-signed digital certificate for this process. Please follow the [steps provided by Salesforce to create these](https://developer.salesforce.com/docs/atlas.en-us.238.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm).
 
 These instructions describe how to set up OAuth in the Salesforce-created connected app.
 1.  From Setup, enter `Apps` in the **Quick Find** box, and select **App Manager**.
