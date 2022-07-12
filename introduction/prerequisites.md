@@ -13,6 +13,7 @@ In order to successfully complete this workshop, attendees must have access to t
 
 ---
 Additionally, attendees should have some idea as to what Service Cloud Voice and Amazon Connect are. For those with limited exposure, here are two short videos:
-::video{id=uvD97rlK57Q type=youTube}
+
+[![Service Cloud Voice](/static/01/scv_video.png)](https://www.youtube.com/watch?v=uvD97rlK57Q)
 
 ::video{id=syF1CEiWAto type=youTube}
