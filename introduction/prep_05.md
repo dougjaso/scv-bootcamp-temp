@@ -8,17 +8,19 @@ Go to AWS and complete the password reset flow. Basic instructions are below, fo
 > **_NOTE:_** We strongly recommend that you do not use the root user for your everyday tasks, even the administrative ones. Instead, adhere to the best practice of using the root user only to create your first IAM user. Then securely lock away the root user credentials and use them to perform only a few account and service management tasks. To view the tasks that require you to sign in as the root user, see [AWS Tasks That Require Root User](https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html). For a tutorial on how to set up an administrator for daily use, see [Creating your first IAM admin user and user group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html).
 
 1.  Open a broswer and navigate to the [AWS Console](https://console.aws.amazon.com/).
-1.  Select **Root user** as the sign in type. ![Login as Root](/static/01/aws_login.png)
-1.  Provide the email address you used to turn on voice and select **Next**.
-1.  Choose **Forgot password?**.
-1.  Complete the CAPTCHA. Once completed successfully, an password reset link will be sent to the root email address.
-1.  Follow the link to the **Reset password** page.
-1.  Provide and confirm a new password. 
-1.  Once you have reset your password, sign in by selecting **Sign in** on the "Password reset successful!" page.
 1.  Select **Root user** as the sign in type.
-1.  Provide the email address you used to turn on voice and select **Next**.
-1.  Provide your password and select **Sign in**.
-1.  You are not logged into the AWS Console.
+
+![Login as Root](/static/01/aws_login.png)
+3.  Provide the email address you used to turn on voice and select **Next**.
+4.  Choose **Forgot password?**.
+5.  Complete the CAPTCHA. Once completed successfully, an password reset link will be sent to the root email address.
+6.  Follow the link to the **Reset password** page.
+7.  Provide and confirm a new password. 
+8.  Once you have reset your password, sign in by selecting **Sign in** on the "Password reset successful!" page.
+9.  Select **Root user** as the sign in type.
+10.  Provide the email address you used to turn on voice and select **Next**.
+11.  Provide your password and select **Sign in**.
+12.  You are not logged into the AWS Console.
 
 ## Confirm your tax registration number
 After your Amazon Web Services subaccount is created, confirm your company’s tax registration number for the subaccount. Complete this step so that Service Cloud Voice can be turned on in your org.
