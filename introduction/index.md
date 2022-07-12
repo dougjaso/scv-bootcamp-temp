@@ -1,3 +1,4 @@
+# Course Introduction & Prerequisite Validation
 Service Cloud Voice brings together phone, digital channels, and CRM data into one unified contact center experience. Amazon Connect offers pre-integrated cloud telephony and automatic speech recognition for both agents and supervisors in Service Cloud, the leading customer service platform.
 
 Amazon Connect has natural text-to-speech built-in so you can create personalized messages in real-time with Amazon Lex to automate interactions and improve customer service. Agents now have native, embedded call control with integrated email, chat, and messaging within the Service Cloud Console. This increases agent productivity by handling calls quickly and intelligently, reducing average handle time, data entry, and call wrap-up time. Supervisors can view incoming and current calls next to Salesforce-powered digital conversations in real time for live routing and call assist.
