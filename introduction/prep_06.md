@@ -26,13 +26,16 @@ Set up your contact center for Service Cloud Voice with Amazon Connect. When you
 1.  From Setup, in the Quick Find box, enter `Amazon Setup`, then select **Amazon Setup**.
 1.  In the Set Up Your Contact Center section, choose **Create Contact Center**. The Create Contact Center wizard opens. ![Creat contact center](/static/01/create_cc.png)
 1.  Enter a display name for your contact center.
-1.  Complete the form ![Complete the form](/static/01/create_cc_form.png)
+1.  Complete the form 
     *  Enter a display name for your contact center
     *  Enter an internal name for your contact center. The internal name is how other objects recognize your call center, similar to an API name. The internal name must be unique to your org, contain fewer than 20 characters, start with a letter, and contain only alphanumeric characters.
     *  Select the region that’s closest to where your contact center is located. The list is populated with the AWS regions that support Amazon Connect.
-1.  Select **Next**.
-1.  Choose at least one administrator for the contact center. The list is populated with users who already have the Contact Center Admin permission set.
-1.  Select **Done**. The window closes. It can take a few minutes to create the contact center.
+
+![Complete the form](/static/01/create_cc_form.png)
+
+6.  Select **Next**.
+6.  Choose at least one administrator for the contact center. The list is populated with users who already have the Contact Center Admin permission set.
+6.  Select **Done**. The window closes. It can take a few minutes to create the contact center.
 
 ![Creat contact center](/static/01/create_cc_in_progress.png)
 
