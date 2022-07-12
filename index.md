@@ -25,4 +25,4 @@ When taught live, this workshop is run over a three day period, with each day la
 * **Module 10 – Summary  & Clean Up**
 * **Module 11 – Hands-On Workshop**
 
-**NEXT STEP: [Introduction](introduction/index.md)
+**NEXT STEP: [Introduction](introduction/index.md)**
