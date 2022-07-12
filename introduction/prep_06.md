@@ -83,20 +83,32 @@ Now that you have claimed a phone number and assigned it to your queue, you are 
 
 ![Open the CCP](/static/01/connect_admin_ccp_icon.png)
 
-3.  As the window opens, allow access to the microphone and notifications as requested.
-4.  Change your agent status by selecting **Offline** and choosing **Available**. ![Change agent status](/static/01/ccp_change_state.png)
-5.  Select **Number pad** top open the dial pad and enter a direct dial phone number, such as your mobile phone, that you have access to. 
+2.  As the window opens, allow access to the microphone and notifications as requested.
+2.  Change your agent status by selecting **Offline** and choosing **Available**. 
+
+![Change agent status](/static/01/ccp_change_state.png)
+
+4.  Select **Number pad** top open the dial pad and enter a direct dial phone number, such as your mobile phone, that you have access to. 
 > **_IMPORTANT:_** **UK numbers** with the following prefixes are not allowed by default: +447, +44111, +44118, +44119, +448, +44826, +449. **Japan mobile numbers** with the following prefixes are not allowed by default: +8170, 8180, and 8190. Before you can dial these numbers, you must submit a service quota increase request. If you only have access to a number that begins with one of these prefixes. Skip to the inbound call test that begins at step 10.
-6.  Select **Call**. ![Outbound call](/static/01/ccp_outbound.png)
-7.  Answer the call on your mobile phone when it arrives
-8.  After brief messages on both the customer and agent sides, the call should connect. ![Call connected](/static/01/ccp_connected.png)
-9.  Once it does, you can end the call by selecting **End call**.
-10.  Select **Close contact** to clear the agent from the After call work state.
-11.  Now, from your mobile phone, call the number that you claimed earlier. It should be the same as the caller ID from the call you just received.
-12.  After a couple short messages, the call should arrive at the agent's CCP. ![Incoming](/static/01/ccp_incoming.png)
-13.  Accept the call by selecting the **green checkmark button**.
-14.  Once the call has connected, you can end it by selecting **End call**.
-15.  Select **Close contact** to clear the agent from the After call work state.
-16.  Close the Contact Control Panel window
+5.  Select **Call**. 
+
+![Outbound call](/static/01/ccp_outbound.png)
+
+6.  Answer the call on your mobile phone when it arrives
+7.  After brief messages on both the customer and agent sides, the call should connect. 
+
+![Call connected](/static/01/ccp_connected.png)
+
+8.  Once it does, you can end the call by selecting **End call**.
+9.  Select **Close contact** to clear the agent from the After call work state.
+10.  Now, from your mobile phone, call the number that you claimed earlier. It should be the same as the caller ID from the call you just received.
+11.  After a couple short messages, the call should arrive at the agent's CCP. 
+
+![Incoming](/static/01/ccp_incoming.png)
+
+12.  Accept the call by selecting the **green checkmark button**.
+13.  Once the call has connected, you can end it by selecting **End call**.
+14.  Select **Close contact** to clear the agent from the After call work state.
+15.  Close the Contact Control Panel window
 
 **NEXT STEP: [Configure Salesforce REST API access](prep_07.md)**
