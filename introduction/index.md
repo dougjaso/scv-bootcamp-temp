@@ -7,3 +7,5 @@ Amazon Connect has natural text-to-speech built-in so you can create personalize
 Supervisors and agents will have access to real-time transcription via Amazon Transcribe, call recording playback via Amazon Simple Storage Service (Amazon S3), and CRM integration with call analytics. Service Cloud Voice uses AWS AI/ML Services and Einstein for Service, allowing agents to leverage knowledge articles, next best actions, and recommendations in real time. Now, customers will receive faster, more personalized customer service than ever!
 
 To learn more on using Amazon Connect with Service Cloud Voice, visit the [Salesforce Service Cloud Voice website](https://www.salesforce.com/products/service-cloud/solutions/call-center-management/).
+
+**NEXT STEP: [Course Prerequisites](prerequisites.md)
