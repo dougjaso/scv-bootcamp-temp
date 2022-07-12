@@ -11,6 +11,7 @@ Go to AWS and complete the password reset flow. Basic instructions are below, fo
 1.  Select **Root user** as the sign in type.
 
 ![Login as Root](/static/01/aws_login.png)
+
 3.  Provide the email address you used to turn on voice and select **Next**.
 4.  Choose **Forgot password?**.
 5.  Complete the CAPTCHA. Once completed successfully, an password reset link will be sent to the root email address.
