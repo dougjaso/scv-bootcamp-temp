@@ -30,14 +30,20 @@ As mentioned above, AWS strongly recommends that you do not use the root user fo
 2.  From the side menu, select **Users**
 3.  Choose **Add users**
 4.  Provide a username, such as **WorkshopAdmin** (feel free to use whatever you like), and select the **Password - AWS Management Console access**. You can choose to specify a password, or let IAM autogenerate one for you.
+  
 ![IAM user setup step 1](/static/01/iam_step_1.png)
+
 5.  Select **Next: Permissions**
 6.  Choose **Attach existing policies directly**, then select the checkbox next to **AdministratorAccess** in the policies list.
+
 ![IAM attach policies](/static/01/iam_step_2.png)
+
 7.  Select **Next: Tags**, then select **Next: Review**
 8.  Verify the information is correct, then choose **Create user**
 9.  After a moment, your user will be created. Note the AWS console login URL, as it will allow for login without needing to know the AWS account number or name. 
+
 ![IAM user created](/static/01/iam_step_5.png)
+
 10. Select **Show** to see the password. Copy the password to a safe location. If you lose it, you can login as root to reset the password if needed.
 Your user has been created. You do not need to switch users now. Feel free to complete the rest of the prerequistes, then begin using the IAM user from that point forward.
 
