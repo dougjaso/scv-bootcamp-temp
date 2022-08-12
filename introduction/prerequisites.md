@@ -19,4 +19,4 @@ Additionally, attendees should have some idea as to what Service Cloud Voice and
 
 [![Amazon Connect](/static/01/connect_video.png)](https://www.youtube.com/watch?v=syF1CEiWAto)
 
-**NEXT STEP: [Course Preparation](prep_index.md)**
+**NEXT STEP: [New to AWS?](prerequisites-2.md)**
