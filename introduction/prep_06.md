@@ -62,7 +62,7 @@ To claim a phone number in Amazon Connect, log in to your Amazon Connect instanc
 1.  In the country menu, select your country. 
 1.  Select a number from the list of available phone numbers.
 1.  Provide a brief description, such as `Test number`
-1.  In the Contact flow/IVR menu, select **Sample_SCV_Inbound_With_Transcription using Contact Lens**.
+1.  In the Contact flow/IVR menu, select **Sample SCV Inbound With Transcription using Contact Lens**.
 1.  Choose **Save**
 
 This will claim the phone number from AWS and assign it to your Amazon Connect instance. This process usally takes ~1 minute to activate. While the number is provisioned, update the sample queue to use this number for outbound calls.
@@ -73,7 +73,7 @@ Any queue that will be used to place outbound calls, whether manual, API-driven,
 1.  Choose Routing and select **Queues**.
 1.  Select **BasicQueue**
 1.  In the Outbound caller ID number menu, select the phone number that you claimed.
-1.  In the Outbound whisper flow menu, select **Sample SCV Outbound Flow ith Transcription using Contact Lens**.
+1.  In the Outbound whisper flow menu, select **Sample SCV Outbound Flow with Transcription using Contact Lens**.
 1.  Choose **Save**
 
 ### Test basic telephony routing
