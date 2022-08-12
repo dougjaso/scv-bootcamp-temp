@@ -1,5 +1,5 @@
 # New to AWS?
-![AWS Management Console](/static/01/aws_console.png)
+[![AWS Management Console](/static/01/aws_console.png)](https://aws.amazon.com/getting-started/hands-on/getting-started-with-aws-management-console)
 All AWS service configuration is performed in the AWS Management Console. This is where you will provision resources, create Amazon Lex bots, write new AWS Lambda functions, monitor logs with Amazon CloudWatch, and perform many other configuration tasks. If you have limited experience using the AWS Management Console, you should take a few moments to get yourself familiar with it. Even before you have your account created (which will happen as a part of your Service Cloud Voice deployment), you can review the [Getting Started with the AWS Management Console Getting Started Guide](https://aws.amazon.com/getting-started/hands-on/getting-started-with-aws-management-console), which will walk you through the user experience. If you're already comfortable with the AWS Management Console, feel free to skip this step.
 
 **NEXT STEP: [New to Salesforce?](prerequisites-3.md)**
