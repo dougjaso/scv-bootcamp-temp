@@ -73,7 +73,7 @@ Any queue that will be used to place outbound calls, whether manual, API-driven,
 1.  Choose Routing and select **Queues**.
 1.  Select **BasicQueue**
 1.  In the Outbound caller ID number menu, select the phone number that you claimed.
-1.  In the Outbound whisper flow menu, select **Sample_SCV_Outbound_Flow_With_Transcription**.
+1.  In the Outbound whisper flow menu, select **Sample SCV Outbound Flow ith Transcription using Contact Lens**.
 1.  Choose **Save**
 
 ### Test basic telephony routing
